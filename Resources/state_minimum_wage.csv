@@ -1,0 +1,56 @@
+State Abbreviation,State Name,Minimum Wage,Liquor License Cost,License Duration, License Cost by Month 
+AL,Alabama,7.25,300,Annual, $25.00 
+AK,Alaska,10.85,1000,Annual, $83.33 
+AZ,Arizona,13.85,1000,Annual, $83.33 
+AR,Arkansas,11,300,Annual, $25.00 
+CA,California,15.5,13900,Annual," $1,158.33 "
+CO,Colorado,13.65,575,Annual, $47.92 
+CT,Connecticut,14,1550,Annual, $129.17 
+DE,Delaware,11.75,1000,Annual, $83.33 
+DC,District of Columbia,16.1,,Annual, $16.10 
+FL,Florida,11,1820,Annual, $151.67 
+GA,Georgia,7.25,1000,Annual, $83.33 
+GU,Guam,9.25,,, NaN 
+HI,Hawaii,12,900,Annual, $75.00 
+ID,Idaho,7.25,100,Annual, $8.33 
+IL,Illinois,13,5190,Annual, $432.50 
+IN,Indiana,7.25,1000,Annual, $83.33 
+IA,Iowa,7.25,750,Annual, $62.50 
+KS,Kansas,7.25,300,Annual, $25.00 
+KY,Kentucky,7.25,1800,Annual, $150.00 
+LA,Louisiana,7.25,2500,Annual, $208.33 
+ME,Maine,13.8,1500,Annual, $125.00 
+MD,Maryland,13.25,2500,Annual, $208.33 
+MA,Massachusetts,15,2000,Annual, $166.67 
+MI,Michigan,10.1,600,Annual, $50.00 
+MN,Minnesota,10.59,300,Annual, $25.00 
+MS,Mississippi,7.25,475,Annual, $39.58 
+MO,Missouri,12,500,Annual, $41.67 
+MT,Montana,9.95,800,Annual, $66.67 
+NE,Nebraska,10.5,250,Annual, $20.83 
+NV,Nevada,10.5,2500,Annual, $208.33 
+NH,New Hampshire,7.25,178,Annual, $14.83 
+NJ,New Jersey,14.13,500,Annual, $41.67 
+NM,New Mexico,12,350,Annual, $29.17 
+NY,New York,14.2,4552,Biennial, $189.67 
+NC,North Carolina,7.25,1000,Annual, $83.33 
+ND,North Dakota,7.25,2020,Annual, $168.33 
+CNMI,Northern Mariana Islands,7.25,,, NaN 
+OH,Ohio,10.1,2400,Annual, $200.00 
+OK,Oklahoma,7.25,1005,Annual, $83.75 
+OR,Oregon,13.5,402.6,Annual, $33.55 
+PA,Pennsylvania,7.25,Must purchase an existing license - limit on number of available licenses,, NaN 
+PR,Puerto Rico,8.5,,, NaN 
+RI,Rhode Island,13,500,Annual, $41.67 
+SC,South Carolina,7.25,325,Annual, $27.08 
+SD,South Dakota,10.8,230,Annual, $19.17 
+TN,Tennessee,7.25,5300,Annual, $441.67 
+TX,Texas,7.25,1529,Annual, $127.42 
+VI,US Virgin Islands,10.5,,, NaN 
+UT,Utah,7.25,2530,Annual, $210.83 
+VT,Vermont,13.18,115,Annual, $9.58 
+VA,Virginia,12,300,Annual, $25.00 
+WA,Washington,15.74,400,Annual, $33.33 
+WV,West Virginia,8.75,400,Annual, $33.33 
+WI,Wisconsin,7.25,Vary by municipality,, NaN 
+WY,Wyoming,7.25,500,Annual, $41.67 
