@@ -1,0 +1,7 @@
+"name","example","link"
+"Abbreviation -> Name mapping","{ \"AL\": \"Alabama\" ...}","abbr-name"
+"Name -> Abbreviation mapping","{ \"Alabama\": \"AL\" ...}","name-abbr"
+"Name, Abbreviation list","[{\"name\": \"Alabama\", \"abbreviation\": \"AL\"} ...]","abbr-name-list"
+"Abbreviation list","[\"AL\", \"AK\", \"AS\", \"AZ\" ...]","abbr-list"
+"Name list","[\"Alabama\", \"Alaska\" ...]","name-list"
+"Name, Slug list","[{name: \"Alabama\", slug: \"alabama\"} ...]","name-slug-list"
