@@ -51,8 +51,7 @@ So, with these findings, we can conclude that we will have a steady customer bas
 
 ## Customer Spending Profile
 
-3. On average, do people tend to spend more than they have? 
-    -Is this a positive or negative trait for Code Brews?
+3. What are some of the spending trends the data shows around the cost of domestic beer?
 
 On average, domestic beer is 86% of the price of imported beer. In the chart, 'Beer Spending,' we are focused on cities where customers are willing to pay a premium for domestic beer, so the selected cities demonstrate this.
 
