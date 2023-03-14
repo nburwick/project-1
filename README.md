@@ -99,6 +99,7 @@ In the chart depicting city, state, # of breweries in the city, and people per b
 From the result, we concluded that expanding our new location in one of these cities would be most viable due to the higher number of potential customers we could target.
 
 
+
 In conclusion, after gathering all of our data and finding the common denominator city that offers practical transportation, our ideal customer base and spending habits, healthy cost estimates, and overall potential profits, we can confidentally select Austin, Texas as our ideal location for Code Brews.
 
 
