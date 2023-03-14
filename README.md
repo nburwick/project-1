@@ -63,7 +63,7 @@ Because our brewery will offer food in addition to beer, we decided examine the 
 ## Production Cost Estimation
 
 4. Can Code Brews estimate our beer production costs relative to each state from the available data (i.e. water cost and electricity/utility cost)?  
-    -And how does this impact our headquarters selection?
+    -How does this impact our headquarters selection?
 
 Estimating production costs allows for many assumptions to be made on behalf of expenses and sales. Revenue assumes the new brewery produces an equal share of the local craft beer in the city. Beer consumption per city is estimated using state beer consumption per capita and city population, and it assumes that all produced beer is sold in the taproom and none is distributed elsewhere.
 
