@@ -98,9 +98,9 @@ In the chart depicting city, state, # of breweries in the city, and people per b
 
 From the result, we concluded that expanding our new location in one of these cities would be most viable due to the higher number of potential customers we could target.
 
+## Conclusion
 
-
-In conclusion, after gathering all of our data and finding the common denominator city that offers practical transportation, our ideal customer base and spending habits, healthy cost estimates, and overall potential profits, we can confidentally select Austin, Texas as our ideal location for Code Brews.
+In conclusion, we were able to compose a ranking system to compare key indicators in our city selection process. We took the highest ranked city and created a median profile that allows us to take all of our findings to the next, more precise level. With this, the common denominator city that offers practical transportation, our ideal customer base and spending habits, healthy cost estimates, and overall potential profits is Austin, Texas. Now, Codes Brews can hone in on Austin and pass the baton to our real estate team to help us locate our ideal property!
 
 
 ### Data Sets Used:
