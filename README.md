@@ -54,7 +54,7 @@ So, with these findings, we can conclude that we will have a steady customer bas
 3. On average, do people tend to spend more than they have? 
     -Is this a positive or negative trait for Code Brews?
 
-On average, domestic beer is 86% of the price of imported beer. In the chart, 'Restaurant vs Home Beer, Domestic vs Import, Beer vs Food' we are focused on cities where customers are willing to pay a premium for domestic beer, so the selected cities demonstrate this.
+On average, domestic beer is 86% of the price of imported beer. In the chart, 'Beer Spending,' we are focused on cities where customers are willing to pay a premium for domestic beer, so the selected cities demonstrate this.
 
 When examining this data, we need to look at the basics of our business: operating a brewery depends on people who enjoy drinking out, as opposed to people who enjoy drinking at home. In our dataset, the average stay-at-home consumer spends \\$2.56 on a 12 oz bottle of domestic beer. Meanwhile, the average leave-the-home consumer spends about \\$5.08 on a 12 oz bottle of domestic beer. This shows that ordering a beer at a restaurant is about 2 times more expensive than drinking a beer at home. Therefore, to keep price relative to average, we will cap the restaurant beer to 3 times the price of having a beer at home.  
 
