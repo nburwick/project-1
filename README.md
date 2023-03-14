@@ -47,7 +47,7 @@ In this grouped bar chart, we can easily visualize how many different household 
 
 Aside from this visualization, we created a bar chart that focuses on the population growth of these top 10 cities. With this chart, we can see that all of these cities have experienced -2% to 1% growth. California contains the most cities with zero growth, Chicago contains the highest decrease in growth, and Texas contains the highest increase in growth. With this information, we may consider California and Texas as top contenders for Code Brews’ location because they have not experienced negative growth.  
 
-So, with these finidngs, we can conclude that we will have a steady customer base in California or potentially a growing one in Texas. 
+So, with these findings, we can conclude that we will have a steady customer base in California or potentially a growing one in Texas. 
 
 ## Customer Spending Profile
 
