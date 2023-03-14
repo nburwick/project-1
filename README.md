@@ -85,7 +85,7 @@ With all of this, in order to calculate the profit margin, we use this formula: 
 
 These cities contain relatively high populations, and production sales were assumed based on beer consumption per capita, likely driving the high revenue figures for these cities. Also, note that two large cities in California make the list - California contains a high population and large brewing scene, but our expense calculation do not account for taxes other than the 21% flat and excise tax, so we are not inclined to lean towards the California margin numbers.
 
-In order to determine the viability and competitiveness of opening up a new brewery, we gathered the following data from a sample of cities in the United States:
+In order to determine the viability and competitiveness of opening a new brewery, we gathered the following data from a sample of cities in the United States:
 
  - Number of people over the age of 19 in a city 
  - Number of breweries in a city 
