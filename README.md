@@ -70,28 +70,18 @@ Estimating production costs allows for many assumptions to be made on behalf of 
 Multiple sources allow us to draw expense estimates. Utilities and rent are estimated using a cost of living dataset. Labor is estimated using the latest state minimum wage and hours are fixed for all cities. The tax estimate includes a flat 21% on revenue and state beer excise taxes.
 With all of this, in order to calculate the profit margin, we use this formula: (revenue - expenses)/revenue. We created a subset of data to showcase the top 10 cities within analysis that contain highest profit margins. Please refer to the data below:
 
-City, State
-Profit Margin
-Los Angeles, CA
-61%
-Houston, TX
-56%
-Memphis, TN
-40%
-Dallas, TX
-40%
-Ft. Worth, TX
-40%
-San Diego, CA
-37%
-Austin, TX
-35%
-Jacksonville, FL
-29%
-Columbus, OH
-27%
-Baton Rouge, LA
-23%
+| City | State | Profit Margin |
+| ---- | ----- | ------------- |
+| Los Angeles | CA | 61% |
+| Houston | TX | 56% |
+| Memphis | TN | 40% |
+| Dallas | TX | 40% |
+| Ft. Worth| TX | 40%|
+| San Diego | CA | 37% |
+| Austin | TX | 35% |
+| Jacksonville | FL | 29% |
+| Columbus | OH | 27% |
+| Baton Rouge | LA | 23% |
 
 These cities contain relatively high populations, and production sales were assumed based on beer consumption per capita, likely driving the high revenue figures for these cities. Also, note that two large cities in California make the list - California contains a high population and large brewing scene, but our expense calculation do not account for taxes other than the 21% flat and excise tax, so we are not inclined to lean towards the California margin numbers.
 
