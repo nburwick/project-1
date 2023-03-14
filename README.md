@@ -56,7 +56,7 @@ So, with these finidngs, we can conclude that we will have a steady customer bas
 
 On average, domestic beer is 86% of the price of imported beer. For the chart, 'Restaurant vs Home Beer, Domestic vs Import, Beer vs Food.' are we focused on cities where customers are willing to pay a premium for domestic beer, so the selected cities demonstrate this.
 
-When examining this data, we need to look at the basics of our business: operating a brewery depends on people who enjoy drinking out, as opposed to people who enjoy drinking at home. In our dataset, the average stay-at-home consumer spends $2.56 on a 12 oz bottle of domestic beer. Meanwhile, the average leave-the-home consumer spends about $5.08 on a 12 oz bottle of domestic beer. This shows that ordering a beer at a restaurant is about 2 times more expensive than drinking a beer at home. Therefore, to keep price relative to average, we will cap the restaurant beer to 3 times the price of having a beer at home.  
+When examining this data, we need to look at the basics of our business: operating a brewery depends on people who enjoy drinking out, as opposed to people who enjoy drinking at home. In our dataset, the average stay-at-home consumer spends \\$2.56 on a 12 oz bottle of domestic beer. Meanwhile, the average leave-the-home consumer spends about \\$5.08 on a 12 oz bottle of domestic beer. This shows that ordering a beer at a restaurant is about 2 times more expensive than drinking a beer at home. Therefore, to keep price relative to average, we will cap the restaurant beer to 3 times the price of having a beer at home.  
 
 Because our brewery will offer food in addition to beer, we decided examine the ratio between money spent on a meal at an inexpensive restaurant and the cost of a beer. Across all cities, the average customer spends about 1/3 of the cost of food on beer. Through this selection of cities, we focused on customers who are willing to pay more than 50% of the cost of food on the cost of a beer. Beer is our business' number one product, so coupling the purchase of beer with food is an accepted addtion to potential profit.
 
@@ -87,8 +87,8 @@ These cities contain relatively high populations, and production sales were assu
 
 In order to determine the viability and competitiveness of opening up a new brewery, we gathered the following data from a sample of cities in the United States:
 
--Number of people over the age of 19 in a city 
--Number of breweries in a city 
+ - Number of people over the age of 19 in a city 
+ - Number of breweries in a city 
 
 The U.S. Census does not provide data for the age range of 21 and above, but only 20 and above. Even though 20 is not of legal drinking age in the U.S., we believe the percentage of age 20 in the dataset is not statistically significant enough to skew results due to the sheer volume of the dataset. 
 Based on the data points above, the number of potential customers per brewery is calculated. 
