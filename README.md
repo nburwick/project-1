@@ -19,7 +19,7 @@ These are our questions and findings...
 
 ## Transportation Cost & Pricing Analysis
 
-1. What correlations can we see in transportation cost and price of beer? 
+1. What correlations can we see in average monthly income and average cost of beer as well as the  transportation cost and price of beer?
     - Is there a correlation to average income and pricing in an given area?
     - Include domestic and imported beer findings
     
@@ -103,7 +103,9 @@ In order to determine the viability and competitiveness of opening up a new brew
 The U.S. Census does not provide data for the age range of 21 and above, but only 20 and above. Even though 20 is not of legal drinking age in the U.S., we believe the percentage of age 20 in the dataset is not statistically significant enough to skew results due to the sheer volume of the dataset. 
 Based on the data points above, the number of potential customers per brewery is calculated. 
 
-In the chart depicting city, state, # of breweries in the city, and people per brewery, we see that the higher the number of potential customers per brewery, the higher the chance of a new brewery being profitable. We can also assume less competition with this piece of data.
+In the bar chart depicting city, state, # of breweries in the city, and people per brewery, we see that the higher the number of potential customers per brewery, the higher the chance of a new brewery being profitable. We can also assume less competition with this piece of data.
+
+In conclusion, after gathering all of our data and finding the common denominator city that offers practical transportation, our ideal customer base and spending habits, healthy cost estimates, and overall potential profits, we can confidentally select Austin, Texas as our ideal location for Code Brews.
 
 
 ### Data Sets Used:
