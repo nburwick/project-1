@@ -40,4 +40,5 @@ We will use data sets with various cost of living data for cities and countries 
 ### Data Sets Used:
  - US Census Buerau - API Collection
  - Cost of Living Data - Kaggle - https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living.csv
+ - Craft Beer Data - Kaggle - https://www.kaggle.com/nickhould/craft-cans
  - Open Brewery DB - API
