@@ -46,19 +46,25 @@ Aside from this visualization, we created a bar chart that focuses on the popula
 So, with these finidngs, we can conclude that we will have a steady customer base in California or potentially a growing one in Texas. 
 
 3. On average, do people tend to spend more than they have? 
-    -Is this a positive or negative trait for our business?
+    -Is this a positive or negative trait for Code Brews?
 
-On average, domestic beer is 86% of the price of imported beer. For this chart we wanted to focus on cities where customers where willing to pay a premium for domestic beer. The selected cities actually pay more for domestic beer than imported beer.
-Running a brewery we depend on people who drink while out versus those who eat at home. In our data set the average person sends $2.56 for 12 oz bottle of domestic beer at home. Meanwhile, the average person would spend about $5.08 on a domestic beer at a restaurant. This shows that ordering a beer at a restaurant is about 2 times as expensive as drinking a beer at home. Therefore, to keep the price relative to the average we will cap the restaurant beer to 3 times the price of having a beer at home.  
-Since our brewery will have food as well as beer, we wanted to take a look at the ratio of money spent on a meal at an inexpensive restaurant to the cost of a beer. Across all cities, the average customer will spend about 1/3 the cost of food to have a beer. In the cities selected for the chart we focused cities where customers are willing to pay more than 50% of the cost of food for a beer. Beer is essential for our business so buying beer with food is excepted. 
+On average, domestic beer is 86% of the price of imported beer. For this chart(*which chart- need name to reference to*) we focused on cities where customers are willing to pay a premium for domestic beer, so the selected cities demonstrate this.
 
-4. Can we estimate our beer production costs relative to each state from the available data (i.e. water cost and electricity/utility cost)?  And how does that impact our headquarters selection?
-Production cost estimate makes many assumptions on the expenses and sales. Revenue assumes the new brewery produces an equal share of the local craft beer in the city, and beer consumption per city  is estimated using state beer consumption per capita and city population. It also assumes that all produced beer is sold in the taproom and none is distributed elsewhere.
-Expenses are estimated from multiple sources. Utilities and rent are estimated using cost of living dataset. Labor is estimated using latest state minimum wage and hours are fixed for all cities. Tax estimate includes a flat 21% on revenue and state beer excise taxes.
-Profit margin is calculated using (revenue - expenses)/revenue. The top 10 cities in the analysis with the highest profit margins were as follows:
+When examining this data, we need to look at the basics of our business: operating a brewery depends on people who enjoy drinking out, as opposed to people who enjoy drinking at home. In our dataset, the average stay-at-home consumer spends $2.56 on a 12 oz bottle of domestic beer. Meanwhile, the average leave-the-home consumer spends about $5.08 on a 12 oz bottle of domestic beer. This shows that ordering a beer at a restaurant is about 2 times more expensive than drinking a beer at home. Therefore, to keep price relative to average, we will cap the restaurant beer to 3 times the price of having a beer at home.  
+
+Because our brewery will offer food in addition to beer, we decided examine the ratio between money spent on a meal at an inexpensive restaurant and the cost of a beer. Across all cities, the average customer spends about 1/3 of the cost of food on beer. Through this selection of cities, we focused on customers who are willing to pay more than 50% of the cost of food on the cost of a beer. Beer is our business' number one product, so coupling the purchase of beer with food is an accepted addtion to potential profit.
+
+4. Can Code Brews estimate our beer production costs relative to each state from the available data (i.e. water cost and electricity/utility cost)?  
+    -And how does this impact our headquarters selection?
+
+Estimating production costs allows for many assumptions to be made on behalf of expenses and sales. Revenue assumes the new brewery produces an equal share of the local craft beer in the city. Beer consumption per city is estimated using state beer consumption per capita and city population, and it assumes that all produced beer is sold in the taproom and none is distributed elsewhere.
+
+Multiple sources allow us to draw expense estimates. Utilities and rent are estimated using a cost of living dataset. Labor is estimated using the latest state minimum wage and hours are fixed for all cities. The tax estimate includes a flat 21% on revenue and state beer excise taxes.
+With all of this, in order to calculate the profit margin, we use this formula: (revenue - expenses)/revenue. We created a subset of data to showcase the top 10 cities within analysis that contain highest profit margins. Please refer to the data below:
 
 City, State
 Profit Margin
+--------------------
 Los Angeles, CA
 61%
 Houston, TX
@@ -80,13 +86,18 @@ Columbus, OH
 Baton Rouge, LA
 23%
 
-These cities have relatively high populations and production sales were assumed based on beer consumption per capita, likely driving the high revenue figures for these cities. Also note that two large cities in California make the list - California does have a high population and large brewing scene, but our expense calculation does not account for taxes other than 21% flat and excise tax, so I’m not inclined to believe the California margin numbers.
+These cities contain relatively high populations, and production sales were assumed based on beer consumption per capita, likely driving the high revenue figures for these cities. Also, note that two large cities in California make the list - California contains a high population and large brewing scene, but our expense calculation do not account for taxes other than the 21% flat and excise tax, so we are not inclined to lean towards the California margin numbers.
 
-To determine the viability and competitiveness of opening up a new brewery, we gathered the following data from a sample of cities in the United States:
-Number of people over the age of 19 in a city 
-Number of breweries in a city 
-The U.S. Census does not provide data for the age of 21 and above, only 20 and above. Even though 20 is not of legal drinking age in the U.S, we believe the percentage of age 20 in the dataset is not statistically significant enough to skew the results due to the sheer volume of the dataset. 
-From the data points above, the number of potential customers per brewery was calculated. 
+In order to determine the viability and competitiveness of opening up a new brewery, we gathered the following data from a sample of cities in the United States:
+
+-Number of people over the age of 19 in a city 
+-Number of breweries in a city 
+
+The U.S. Census does not provide data for the age range of 21 and above, but only 20 and above. Even though 20 is not of legal drinking age in the U.S., we believe the percentage of age 20 in the dataset is not statistically significant enough to skew results due to the sheer volume of the dataset. 
+Based on the data points above, the number of potential customers per brewery is calculated. 
+
+***in the chart depicting city, state, # of breweries in the city, and people per brewery.
+
 How competitive 
  the distribution of age group per city in 
 
