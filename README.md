@@ -92,7 +92,23 @@ In order to determine the viability and competitiveness of opening up a new brew
 
 The U.S. Census does not provide data for the age of 21 and above, only 20 and above. Even though 20 is not of legal drinking age in the U.S, we believe the percentage of age 20 in the dataset is not statistically significant enough to skew the results due to the sheer volume of the dataset as we are also looking to project revenues upon opening. From the data points above, the number of potential customers per brewery was calculated. 
 
-In the bar chart depicting city, state, # of breweries in the city, and people per brewery, we see that the higher the number of potential customers per brewery, the higher the chance of a new brewery being profitable. We can also assume less competition with this piece of data.
+City	State	2021 Pop. Estimate	% Age Over 19	# Breweries in City	 People Per Brewery 
+Baton Rouge	Louisiana	222185	0.738893572	3	 54,723.69 
+Oklahoma City	Oklahoma	687725	0.730130191	14	 35,866.34 
+Jacksonville	Florida	954614	0.755014759	21	 34,321.32 
+Tucson	Arizona	543242	0.767457202	19	 21,942.89 
+Huntsville	Alabama	216963	0.758209211	9	 18,278.15 
+Savannah	Georgia	147088	0.744665958	6	 18,255.24 
+Eau Claire	Wisconsin	69441	0.759625426	3	 17,583.05 
+Columbus	Ohio	906528	0.739539948	39	 17,190.09 
+Gainesville	Florida	140398	0.769841641	8	 13,510.53 
+Albuquerque	New Mexico	562599	0.761592318	33	 12,983.97 
+![image](https://user-images.githubusercontent.com/122483265/225129816-51dda25b-714e-4e15-91a1-8a7d497143e2.png)
+
+In the chart depicting city, state, # of breweries in the city, and people per brewery, we see that the higher the number of potential customers per brewery, the higher the chance of a new brewery being profitable. We can also assume less competition with this piece of data.
+
+From the result, we concluded that expanding our new location in one of these cities would be most viable due to the higher number of potential customers we could target.
+
 
 In conclusion, after gathering all of our data and finding the common denominator city that offers practical transportation, our ideal customer base and spending habits, healthy cost estimates, and overall potential profits, we can confidentally select Austin, Texas as our ideal location for Code Brews.
 
