@@ -19,7 +19,7 @@ These are our questions and findings...
 
 ## Transportation Cost & Pricing Analysis
 
-1. What correlations can we see in transportation cost and price of beer? 
+1. What correlations can we see in average monthly income and average cost of beer as well as the  transportation cost and price of beer?
     - Is there a correlation to average income and pricing in an given area?
     - Include domestic and imported beer findings
     
