@@ -47,14 +47,14 @@ In this grouped bar chart, we can easily visualize how many different household 
 
 Aside from this visualization, we created a bar chart that focuses on the population growth of these top 10 cities. With this chart, we can see that all of these cities have experienced -2% to 1% growth. California contains the most cities with zero growth, Chicago contains the highest decrease in growth, and Texas contains the highest increase in growth. With this information, we may consider California and Texas as top contenders for Code Brews’ location because they have not experienced negative growth.  
 
-So, with these finidngs, we can conclude that we will have a steady customer base in California or potentially a growing one in Texas. 
+So, with these findings, we can conclude that we will have a steady customer base in California or potentially a growing one in Texas. 
 
 ## Customer Spending Profile
 
 3. On average, do people tend to spend more than they have? 
     -Is this a positive or negative trait for Code Brews?
 
-On average, domestic beer is 86% of the price of imported beer. In the chart, 'Restaurant vs Home Beer, Domestic vs Import, Beer vs Food' we are focused on cities where customers are willing to pay a premium for domestic beer, so the selected cities demonstrate this.
+On average, domestic beer is 86% of the price of imported beer. In the chart, 'Beer Spending,' we are focused on cities where customers are willing to pay a premium for domestic beer, so the selected cities demonstrate this.
 
 When examining this data, we need to look at the basics of our business: operating a brewery depends on people who enjoy drinking out, as opposed to people who enjoy drinking at home. In our dataset, the average stay-at-home consumer spends \\$2.56 on a 12 oz bottle of domestic beer. Meanwhile, the average leave-the-home consumer spends about \\$5.08 on a 12 oz bottle of domestic beer. This shows that ordering a beer at a restaurant is about 2 times more expensive than drinking a beer at home. Therefore, to keep price relative to average, we will cap the restaurant beer to 3 times the price of having a beer at home.  
 
