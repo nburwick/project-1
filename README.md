@@ -60,7 +60,7 @@ When examining this data, we need to look at the basics of our business: operati
 
 Because our brewery will offer food in addition to beer, we decided examine the ratio between money spent on a meal at an inexpensive restaurant and the cost of a beer. Across all cities, the average customer spends about 1/3 of the cost of food on beer. Through this selection of cities, we focused on customers who are willing to pay more than 50% of the cost of food on the cost of a beer. Beer is our business' number one product, so coupling the purchase of beer with food is an accepted addtion to potential profit.
 
-## Production Cost Estimation
+    ## Production Cost Estimation
 
 4. Can Code Brews estimate our beer production costs relative to each state from the available data (i.e. water cost and electricity/utility cost)?  
     -And how does this impact our headquarters selection?
