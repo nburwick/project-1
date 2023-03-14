@@ -17,6 +17,8 @@ We will use data sets with various cost of living data for cities and countries 
 
 These are our questions and findings...
 
+## Transportation Cost & Pricing Analysis
+
 1. What correlations can we see in transportation cost and price of beer? 
     - Is there a correlation to average income and pricing in an given area?
     - Include domestic and imported beer findings
@@ -32,6 +34,8 @@ In this piece of our analysis we use the average price of imported and domestic 
 We use the regression line to determine a good price point of the beer based on the average income of the city.
 Because there is a strong correlation between the average price of beer and the average monthly income, we can take the top ten cities with the highest monthly income to create a condensed list of potential sites for our brewery.
 
+## Customer Profile Analysis
+
 2. How does household type vs. location affect our target market?
     - Can these factors increase or decrease our product value?
     
@@ -45,6 +49,8 @@ Aside from this visualization, we created a bar chart that focuses on the popula
 
 So, with these finidngs, we can conclude that we will have a steady customer base in California or potentially a growing one in Texas. 
 
+## Customer Spending Profile
+
 3. On average, do people tend to spend more than they have? 
     -Is this a positive or negative trait for Code Brews?
 
@@ -53,6 +59,8 @@ On average, domestic beer is 86% of the price of imported beer. For the chart, '
 When examining this data, we need to look at the basics of our business: operating a brewery depends on people who enjoy drinking out, as opposed to people who enjoy drinking at home. In our dataset, the average stay-at-home consumer spends $2.56 on a 12 oz bottle of domestic beer. Meanwhile, the average leave-the-home consumer spends about $5.08 on a 12 oz bottle of domestic beer. This shows that ordering a beer at a restaurant is about 2 times more expensive than drinking a beer at home. Therefore, to keep price relative to average, we will cap the restaurant beer to 3 times the price of having a beer at home.  
 
 Because our brewery will offer food in addition to beer, we decided examine the ratio between money spent on a meal at an inexpensive restaurant and the cost of a beer. Across all cities, the average customer spends about 1/3 of the cost of food on beer. Through this selection of cities, we focused on customers who are willing to pay more than 50% of the cost of food on the cost of a beer. Beer is our business' number one product, so coupling the purchase of beer with food is an accepted addtion to potential profit.
+
+## Production Cost Estimation
 
 4. Can Code Brews estimate our beer production costs relative to each state from the available data (i.e. water cost and electricity/utility cost)?  
     -And how does this impact our headquarters selection?
@@ -107,15 +115,6 @@ Number of people over the age of 20
 Wen - Bar chart showing number of Breweries in city/population  
 Population was calculated by retrieving US Census population data by age in cities 2021 - shows how competitive a city is to open
 
-
-
-## Transportation Cost & Pricing Analysis
-
-## Customer Profile Analysis
-
-## Customer Spending Profile
-
-## Production Cost Estimation
 
 ### Data Sets Used:
  - US Census Buerau - API Collection
