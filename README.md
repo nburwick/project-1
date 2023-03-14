@@ -103,16 +103,7 @@ In order to determine the viability and competitiveness of opening up a new brew
 The U.S. Census does not provide data for the age range of 21 and above, but only 20 and above. Even though 20 is not of legal drinking age in the U.S., we believe the percentage of age 20 in the dataset is not statistically significant enough to skew results due to the sheer volume of the dataset. 
 Based on the data points above, the number of potential customers per brewery is calculated. 
 
-***in the chart depicting city, state, # of breweries in the city, and people per brewery.
-
-How competitive 
- the distribution of age group per city in 
-
-
-
-Number of people over the age of 20 
-Wen - Bar chart showing number of Breweries in city/population  
-Population was calculated by retrieving US Census population data by age in cities 2021 - shows how competitive a city is to open
+In the chart depicting city, state, # of breweries in the city, and people per brewery, we see that the higher the number of potential customers per brewery, the higher the chance of a new brewery being profitable. We can also assume less competition with this piece of data.
 
 
 ### Data Sets Used:
