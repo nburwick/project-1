@@ -103,14 +103,14 @@ In conclusion, after gathering all of our data and finding the common denominato
  - Cost of Living Data - Kaggle - https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living.csv
  - Craft Beer Data - Kaggle - https://www.kaggle.com/nickhould/craft-cans
  - Open Brewery DB - API
--2018 Per Capita Beer Consumption: https://www.kaggle.com/datasets/osamaabdullatif/apparent-per-capita-alcohol-consumption-19772018
--21% Tax Rate (for some corporations): https://www.irs.gov/publications/p542#en_US_202201_publink1000257885
--State Minimum Wage: https://www.dol.gov/agencies/whd/minimum-wage/state
--State Liquor Licenses: https://ballotpedia.org/Liquor_license_costs_by_state,_2018
--2021 Market Share: https://www.brewersassociation.org/statistics-and-data/national-beer-stats/
--American Pilsner Homebrew Recipe: https://www.homebrewersassociation.org/homebrew-recipe/big-brew-2013-recipe-classic-american-pilsner/
--Corn & Barley Pricing: https://moonshinedistiller.com/ingredients/distilling-grains/
--Yeast and hops Pricing: https://www.morebeer.com/category/brewing-ingredients.html
--State Beer Excise Taxes: https://taxfoundation.org/state-beer-taxes-2021/
+ - 2018 Per Capita Beer Consumption: https://www.kaggle.com/datasets/osamaabdullatif/apparent-per-capita-alcohol-consumption-19772018
+ - 21% Tax Rate (for some corporations): https://www.irs.gov/publications/p542#en_US_202201_publink1000257885
+ - State Minimum Wage: https://www.dol.gov/agencies/whd/minimum-wage/state
+ - State Liquor Licenses: https://ballotpedia.org/Liquor_license_costs_by_state,_2018
+ - 2021 Market Share: https://www.brewersassociation.org/statistics-and-data/national-beer-stats/
+ - American Pilsner Homebrew Recipe: https://www.homebrewersassociation.org/homebrew-recipe/big-brew-2013-recipe-classic-american-pilsner/
+ - Corn & Barley Pricing: https://moonshinedistiller.com/ingredients/distilling-grains/ 
+ - Yeast and hops Pricing: https://www.morebeer.com/category/brewing-ingredients.html
+ - State Beer Excise Taxes: https://taxfoundation.org/state-beer-taxes-2021/
 
 
