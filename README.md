@@ -25,11 +25,17 @@ These are our questions and findings...
     
 This exploration is looking for any relationships between the cost of transportation and the cost of beer that will help in selecting a good market for opening our brewery.  First, we determined which transportation metric to use.  We have cost of living costs for taxi rides, transit rides, and gas costs.  Since we are a responsible brewery and want to encourage taking rides (taxi or transit) as opposed to driving when drinking our beer, we focus on taxi and transit transportation.  We want to further encourage this by finding cities with cheaper rides. With this in mind, we have created a  “Ride Mode Index,” which is a combination of a 1km taxi ride and a one-way local transit ticket. We want to compare this ride index with the cost of beer; in this case, the cost of a domestic beer in a restaurant.  
 
+![fig1](/Output%20Plots/Cheap_Beer_Rides.png)
+
 Figure 1 - Transportation versus Beer Cost displays cities that have both cheap beer and cheap rides that have the potential to be cities that customers want to go out to.  Both of these factors encourage the consumption of our product, and therefore, are better for business.  Cities on the lower left of the chart describe cities with cheap beer and cheap transportation. These are ideal cities to go out to bars or parties and drink up without having to worry about drinking and driving. These include cities like Greenville, Shreveport, or Denton. However, there is a caveat, cheap beer markets might make it more difficult to sell our products with a margin sufficient to turn a profit. So, we may want to focus on markets with cheap transportation and moderate beer pricing, like Yakima, Rogers, Missoula, Worcester or even Fargo, Austin, and Frederick.  
+
+![fig1b](/Output%20Plots/Fig1b-Cheapest_Cities_for_Transportation.png)
 
 Bottom line, we want to avoid markets with high costs of transportation that might encourage customers to drive themselves.  Figure 1b - Cheapest Cities for Transportation displays the Top 20 cheapest cities to get a ride (taxi and transit). We take this a step further by analyzing the correlation between the average price of domestic and imported beer and average income in a particular area.
 
 In this piece of our analysis we use the average price of imported and domestic beer to represent the relative supply and demand of beer in an area. This is also used to measure the viability of the beer market in the city. In order to determine if there is a relationship, we took the average of both imported and domestic beer prices for the city and them with with the average income for the same city. Our data demonstrates a moderately strong correlation between the variables with a correlation coefficient of 0.65.
+
+![fig2](/Output%20Plots/avg_income_corr.png)
 
 We use the regression line to determine a good price point of the beer based on the average income of the city.
 Because there is a strong correlation between the average price of beer and the average monthly income, we can take the top ten cities with the highest monthly income to create a condensed list of potential sites for our brewery.
@@ -43,7 +49,11 @@ In order to answer this question, we merged two csv files that contain populatio
 
 By cleaning up our data to contain specific columns like each household type, city and state, and population growth, we were able to compose two bar graphs. In order to narrow down our search even further,  we gathered the top 10 cities with the highest number of household types. With this cleaned up data we created the "Number of Household Types in US Cities" grouped bar chart. 
 
+![fig3](/Output%20Plots/stacked_bar_q2.png)
+
 In this grouped bar chart, we can easily visualize how many different household types are in each of our top 10 cities. We see that California, specifically Los Angeles, San Diego, Sacramento, and Chico contain the most nonfamily households(red bar) and married households(blue bar). Following California, Texas cities like Austin, Dallas, Houston, Fort Worth, and College Station constain the most cities with potential consumers as well. Because the nature of our business venture typically attracts couples and single consumers, we can assume that these two household types in these two states are our target audience. 
+
+![fig4](/Output%20Plots/pop_growth.png)
 
 Aside from this visualization, we created a bar chart that focuses on the population growth of these top 10 cities. With this chart, we can see that all of these cities have experienced -2% to 1% growth. California contains the most cities with zero growth, Chicago contains the highest decrease in growth, and Texas contains the highest increase in growth. With this information, we may consider California and Texas as top contenders for Code Brews’ location because they have not experienced negative growth.  
 
@@ -55,14 +65,16 @@ So, with these findings, we can conclude that we will have a steady customer bas
 
 On average, domestic beer is 86% of the price of imported beer. In the chart, 'Beer Spending,' we are focused on cities where customers are willing to pay a premium for domestic beer, so the selected cities demonstrate this.
 
-When examining this data, we need to look at the basics of our business: operating a brewery depends on people who enjoy drinking out, as opposed to people who enjoy drinking at home. In our dataset, the average stay-at-home consumer spends \\$2.56 on a 12 oz bottle of domestic beer. Meanwhile, the average leave-the-home consumer spends about \\$5.08 on a 12 oz bottle of domestic beer. This shows that ordering a beer at a restaurant is about 2 times more expensive than drinking a beer at home. Therefore, to keep price relative to average, we will cap the restaurant beer to 3 times the price of having a beer at home.  
+![fig5](/Output%20Plots/DomesticBeerPrices.png)
+
+When examining this data, we need to look at the basics of our business: operating a brewery depends on people who enjoy drinking out, as opposed to people who enjoy drinking at home. In our dataset, the average stay-at-home consumer spends \$2.56 on a 12 oz bottle of domestic beer. Meanwhile, the average leave-the-home consumer spends about \$5.08 on a 12 oz bottle of domestic beer. This shows that ordering a beer at a restaurant is about 2 times more expensive than drinking a beer at home. Therefore, to keep price relative to average, we will cap the restaurant beer to 3 times the price of having a beer at home.  
 
 Because our brewery will offer food in addition to beer, we decided examine the ratio between money spent on a meal at an inexpensive restaurant and the cost of a beer. Across all cities, the average customer spends about 1/3 of the cost of food on beer. Through this selection of cities, we focused on customers who are willing to pay more than 50% of the cost of food on the cost of a beer. Beer is our business' number one product, so coupling the purchase of beer with food is an accepted addtion to potential profit.
 
 ## Production Cost Estimation
 
 4. Can Code Brews estimate our beer production costs relative to each state from the available data (i.e. water cost and electricity/utility cost)?  
-    -How does this impact our headquarters selection?
+    - How does this impact our headquarters selection?
 
 Estimating production costs allows for many assumptions to be made on behalf of expenses and sales. Revenue assumes the new brewery produces an equal share of the local craft beer in the city. Beer consumption per city is estimated using state beer consumption per capita and city population, and it assumes that all produced beer is sold in the taproom and none is distributed elsewhere.
 
@@ -82,7 +94,12 @@ With all of this, in order to calculate the profit margin, we use this formula: 
 | Columbus | OH | 27% |
 | Baton Rouge | LA | 23% |
 
+
+
 These cities contain relatively high populations, and production sales were assumed based on beer consumption per capita, likely driving the high revenue figures for these cities. Also, note that two large cities in California make the list - California contains a high population and large brewing scene, but our expense calculation do not account for taxes other than the 21% flat and excise tax, so we are not inclined to lean towards the California margin numbers.
+
+![fig6](/Output%20Plots/rev_exp_bar.png)
+![fig7](/Output%20Plots/profit_margin.png)
 
 In order to determine the viability and competitiveness of opening a new brewery, we gathered the following data from a sample of cities in the United States:
 
@@ -91,7 +108,7 @@ In order to determine the viability and competitiveness of opening a new brewery
 
 The U.S. Census does not provide data for the age of 21 and above, only 20 and above. Even though 20 is not of legal drinking age in the U.S, we believe the percentage of age 20 in the dataset is not statistically significant enough to skew the results due to the sheer volume of the dataset as we are also looking to project revenues upon opening. From the data points above, the number of potential customers per brewery was calculated. 
 
-![image](https://user-images.githubusercontent.com/122483265/225129816-51dda25b-714e-4e15-91a1-8a7d497143e2.png)
+![fig8](/Output%20Plots/people_over_19.png)
 
 In the chart depicting city, state, # of breweries in the city, and people per brewery, we see that the higher the number of potential customers per brewery, the higher the chance of a new brewery being profitable. We can also assume less competition with this piece of data.
 
@@ -100,6 +117,10 @@ From the result, we concluded that expanding our new location in one of these ci
 ## Conclusion
 
 In conclusion, we were able to compose a ranking system to compare key indicators in our city selection process. We took the highest ranked city and created a median profile that allows us to take all of our findings to the next, more precise level. With this, the common denominator city that offers practical transportation, our ideal customer base and spending habits, healthy cost estimates, and overall potential profits is Austin, Texas. Now, Codes Brews can hone in on Austin and pass the baton to our real estate team to help us locate our ideal property!
+
+![fig9](/Output%20Plots/median_us.png) ![fig10](/Output%20Plots/median_state.png) ![fig11](/Output%20Plots/median_stacked_bar.png)
+
+![fig12](/Output%20Plots/City_Map.png)
 
 
 ### Data Sets Used:
